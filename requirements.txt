@@ -1,0 +1,5 @@
+python 3.5
+install logging package
+tensorflow
+
+installing NLPIR package: pip install pynlpir
